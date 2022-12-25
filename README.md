@@ -10,5 +10,9 @@
 - ⚡ Fun fact: I'm based in the Alberta Rocky Mountains!
 ### Check out my recent projects:
 * [Car Insurance](https://github.com/ryeansharratt/The-Tech-Academy-Basic-C-Projects/tree/main/CarInsurance)
+* [School Database](https://github.com/ryeansharratt/The-Tech-Academy-Basic-C-Projects/tree/main/StudentDBProject)
+* [Space Station site](https://github.com/ryeansharratt/HTML-and-CSS-Projects/tree/main/SpaceStation%20Project)
+* [Basic TicTacToe](https://github.com/ryeansharratt/JavaScript-Projects/tree/main/TicTacToe)
+* [Basic Calculator](https://github.com/ryeansharratt/JavaScript-Projects/tree/main/Calculator)
 
 
