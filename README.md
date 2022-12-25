@@ -1,4 +1,4 @@
-### Hi there! 👋
+## Hi there! 👋
 
 <!--
 **ryeansharratt/ryeansharratt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -8,3 +8,7 @@
 - 🤔 Learning never ends, and I'm here for it!
 - 📫 CONTACT me on my personal site: [ryeansharratt.com](http://www.ryeansharratt.com/)
 - ⚡ Fun fact: I'm based in the Alberta Rocky Mountains!
+### Check out my recent projects:
+* [Car Insurance](https://github.com/ryeansharratt/The-Tech-Academy-Basic-C-Projects/tree/main/CarInsurance)
+
+
