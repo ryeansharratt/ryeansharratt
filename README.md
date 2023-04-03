@@ -6,7 +6,7 @@
 - 🔭 I’m a recent graduate of The Tech Academy, from Portland, Oregon!
 - 🌱 I’m educated in C# & .NET, SQL, PHP, etc. in addition to the big 3.
 - 🤔 Learning never ends, and I'm here for it!
-- 📫 CONTACT me on my personal site: [ryeansharratt.com](http://www.ryeansharratt.com/)
+- 📫 CONTACT me on my personal site: CURRENTLY UNDER DEVELOPMENT
 - ⚡ Fun fact: I'm based in the Alberta Rocky Mountains!
 ### Check out my recent projects:
 * [Car Insurance](https://github.com/ryeansharratt/The-Tech-Academy-Basic-C-Projects/tree/main/CarInsurance)
